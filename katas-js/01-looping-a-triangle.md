@@ -18,4 +18,11 @@ It may be useful to know that you can find the length of a string by writing .le
 let abc = "abc";
 console.log(abc.length);
 // → 3
-```
+
+```solution
+
+let i = "#";
+while (i.length <= 7) {
+    console.log(i);
+    i = i + "#";
+};
