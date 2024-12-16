@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Objectifs journaliers
 
 ## 10/12/2024
